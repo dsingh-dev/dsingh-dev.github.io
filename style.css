@@ -347,11 +347,11 @@ footer {
 }
 @media only screen and (min-width: 480px) {
   .about-us {
-    height: 35%;
+    height: 26%;
   }
   .skill-section .heading,
   .contact .heading {
-    height: 35%;
+    height: 26%;
   }
 }
 @keyframes gradient {
