@@ -340,6 +340,15 @@ footer {
   border: none;
   text-decoration: none;
 }
+@media screen and (min-width: 480px) {
+  .about-us {
+    height: 12%;
+  }
+  .skill-section .heading,
+  .contact .heading {
+    height: 12%;
+  }
+}
 @keyframes gradient {
   0% {
     background-position: 0% 50%;
