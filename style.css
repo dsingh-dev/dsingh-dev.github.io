@@ -451,6 +451,10 @@ footer {
     width: 38px;
     height: 38px;
   }
+  .card img:hover{
+    width: 60px;
+    height: 50px;
+  }
 }
 @keyframes gradient {
   0% {
