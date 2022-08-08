@@ -172,7 +172,7 @@ header {
   align-items: center;
   text-align: center;
   color: #fff;
-  margin-bottom: 66px;
+  height: 35%;
 }
 .heading div {
   position: relative;
@@ -226,7 +226,7 @@ header {
   align-items: center;
   text-align: center;
   color: #fff;
-  margin-bottom: 66px;
+  height: 35%;
 }
 .about-us .heading,
 .contact .heading {
