@@ -172,7 +172,7 @@ header {
   align-items: center;
   text-align: center;
   color: #fff;
-  height: 35%;
+  margin-bottom: 66px;
 }
 .heading div {
   position: relative;
@@ -226,7 +226,7 @@ header {
   align-items: center;
   text-align: center;
   color: #fff;
-  height: 35%;
+  margin-bottom: 66px;
 }
 .about-us .heading,
 .contact .heading {
@@ -336,24 +336,7 @@ footer {
   border: none;
   text-decoration: none;
 }
-@media only screen and (max-width: 480px) {
-  .about-us {
-    height: 12%;
-  }
-  .skill-section .heading,
-  .contact .heading {
-    height: 12%;
-  }
-}
-@media only screen and (min-width: 480px) {
-  .about-us {
-    height: 26%;
-  }
-  .skill-section .heading,
-  .contact .heading {
-    height: 26%;
-  }
-}
+
 @keyframes gradient {
   0% {
     background-position: 0% 50%;
