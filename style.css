@@ -256,17 +256,16 @@ header {
 }
 .ab-img {
   background-color: #fff;
-  border-radius: 92px;
+  border-radius: 100%;
   border: 2px solid darkslategrey;
   padding: 6px;
-  height: 100%;
 }
 .pre-img img {
   width: 154px;
   height: 150px;
 }
 .per-img img{
-  border-radius: 82px;
+  border-radius: 100%;
 }
 .contact {
   margin-top: 38px;
